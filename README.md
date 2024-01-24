@@ -29,7 +29,7 @@ powershell mouse.ps1
 
 
 # Disclaimer
-This script is meant for educational and authorised auditing purposes only (eg. HackTheBox)
+This code is provided for educational and ethical security testing purposes only. It should be used responsibly and only in environments where explicit authorization has been granted. Unauthorized or malicious use is strictly prohibited. By using this code, you agree to adhere to all applicable laws, regulations, and ethical standards applicable in your jurisdiction. The creators and contributors disclaim any liability for any damages or consequences arising from the misuse or unauthorized use of this code.
 
 # Example Output
 An example from the Support HTB box
